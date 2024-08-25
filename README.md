@@ -21,17 +21,21 @@ Clone the repository:
 
 
 git clone 
+```
 https://github.com/your-username/text-hangman.git
+```
 
 Navigate to the project directory:
-
+```
 cd 
 text-hangman
+```
 
 Run the game:
 
-
+```
 python hangman.py
+```
 
 **How to Play**
 
@@ -55,6 +59,6 @@ play_hangman(): Main function that handles game logic, including user input and 
 
 main(): Entry point to start the game and manage replay options.
 
-Contributing
+**Contributing**
 
 Contributions are welcome! Fork the repository, make changes, and submit pull requests to enhance the game or fix issues.
